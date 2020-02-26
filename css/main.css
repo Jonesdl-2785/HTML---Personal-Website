@@ -9,6 +9,10 @@ body {
   background-color: #f1f3f4;
 }
 
+h1, h3 {
+  color: #66bfbf;
+}
+
 hr {
   width: 5%;
   /* height: 2px; */
